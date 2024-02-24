@@ -126,6 +126,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Rasoul Zahedifar - rasoul.zahedifar75@gmail.com,
+
 Ali Keymasi Khalaji - keymasi@khu.ac.ir
 
 Github Link: [https://github.com/Rasoul-Zahedifar/Control-of-blood-glucose-induced-by-meals-for-type-1-diabetics-using-adaptive-backstepping-algorithm](https://github.com/Rasoul-Zahedifar/Control-of-blood-glucose-induced-by-meals-for-type-1-diabetics-using-adaptive-backstepping-algorithm)
